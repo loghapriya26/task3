@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "first_name": "Ann",
+      "last_name": "Kelen",
+      "phoneNumber": "734 143 7169"
+    },
+    {
+      "id": 3,
+      "firstname": "Gratiana",
+      "lastname": "Goscar",
+      "phoneNumber": "990 749 7139"
+    },
+    {
+      "firstname": "Lolly",
+      "lastname": "George",
+      "phoneNumber": "992 454 0819",
+      "id": 4
+    }
+  ]
+}
